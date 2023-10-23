@@ -1,0 +1,48 @@
+* {
+    background-color: rgb(234, 160, 11);
+    color: rgb(109, 179, 236);
+    align-items: center;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.btn {
+    background-color: antiquewhite;
+    color: rgb(17, 17, 19);
+    border-radius: 50px;
+}
+
+.box {
+    margin: 100px;
+    box-shadow: 6px 4px 8px 2px rgba(0.3s, 0.2, 0, 0.2);
+    transition: 0.3s;
+    background-color: bisque;
+    color: black;
+    border-radius: 50px;
+}
+
+.box:hover {
+    box-shadow: 0 8px 16px 0 rgba(175, 21, 21, 0.573);
+    background-color: rgb(252, 3, 3);
+    color: bisque;
+}
+
+.container {
+    padding: 50px 20px;
+    background-color: rgb(88, 51, 5);
+    color: black;
+    border-radius: 100px;
+}
+
+#zero {
+    background-color: rgb(88, 51, 5);
+    color: black;
+}
+
+.btn:hover {
+    background-color: rgb(119, 11, 11);
+    color: antiquewhite;
+    font-size: large;
+
+}
